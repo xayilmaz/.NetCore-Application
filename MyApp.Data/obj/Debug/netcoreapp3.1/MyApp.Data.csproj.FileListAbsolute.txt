@@ -1,0 +1,13 @@
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\bin\Debug\netcoreapp3.1\MyApp.Data.deps.json
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\bin\Debug\netcoreapp3.1\MyApp.Data.runtimeconfig.json
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\bin\Debug\netcoreapp3.1\MyApp.Data.runtimeconfig.dev.json
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\bin\Debug\netcoreapp3.1\MyApp.Data.dll
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\bin\Debug\netcoreapp3.1\MyApp.Data.pdb
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.csproj.AssemblyReference.cache
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.AssemblyInfoInputs.cache
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.AssemblyInfo.cs
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.dll
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.pdb
+C:\Users\Alperen\Desktop\MyyWebApp\MyApp.Data\obj\Debug\netcoreapp3.1\MyApp.Data.genruntimeconfig.cache
